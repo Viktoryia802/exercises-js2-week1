@@ -7,13 +7,19 @@ Assign each of them to a separate variable
 
 
 For example:
-var car = {
-    brand: "Seat",
-    model: "Arona",
-    color: "white",
-    horsepower: 115,
-    doors: 5
-};
-
 */
+var car = {
+  brand: "Mercedes",
+  model: "Jeena",
+  color: "Red",
+  horsepower: 170,
+  doors: 4
+};
+console.log(car);
 
+var book = {
+  author: "Ray Bradbury",
+  name: "451Fahrenheit",
+  pages: 450
+};
+console.log(book);
